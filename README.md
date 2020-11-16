@@ -2,7 +2,12 @@
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=dwskme&&style=flat-square&color=brightgreen)
 
-### Hello Everyone, I am dwsk (btw its nickname), a Geek and tech passionate from Nepal.
+<div align="center">
+
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
+### I am dwsk (btw its nickname), a Geek and tech passionate from Nepal.
 
 ### I love to code and also learn a bit of everything there is interesting in and out of Internet
 
@@ -14,7 +19,7 @@
 - ⚡ Fun fact - Its a secret for now.
   <br />
 
-### These are Everything I know and Use:
+## These are Everything I know and Use:
 
 ### Editors
 
@@ -80,19 +85,15 @@
 
 ## Github Stats
 
-<div align="center">  
-<a href="https://github.com/dwskme">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwskme&theme=onedark&langs_count=8" align="center" style="width: 100%"/>
-</a>
-</div>
+<table><tr><td valign="top" width="50%">
 
-<div align="center">  
-<br />
-<a href="https://github.com/dwskme">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dwskme&show_icons=true&theme=onedark&line_height=27" align="center" style="width: 100%"/>
-</a>
-</div>
-<br />
+<img src="https://github-readme-stats.vercel.app/api?username=dwskme&show_icons=true&count_private=true&hide_border=truetheme=onedar" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwskme&hide_border=true&layout=compacttheme=onedar" align="left" style="width: 100%" />
+
+</td></tr></table>
 
 ### OS:
 
