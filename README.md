@@ -4,7 +4,13 @@
 
 ### I love to code and also learn a bit of everything there is intresting in and out of Internet
 
-<br />
+- 🔭 I’m currently working on - Portfolio and CMS for Blog
+- 🌱 I’m currently learning - Flutter and React
+- 👯 I’m looking to collaborate with - ❔❔❔❔
+- 💬 Ask me about - How to start Coding?
+- 🥅 2020 Goal - Master all my toolset to advanced level
+- ⚡ Fun fact - Its a secret for now.
+  <br />
 
 ## These are the Languages Frameworks and Technologies I use:
 
