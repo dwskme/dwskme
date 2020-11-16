@@ -79,10 +79,11 @@
 ## Github Stats
 
 <a href="https://github.com/dwskme">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwskme&theme=dark&hide_langs_below=1" align="right" style="width: 100%"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwskme&theme=dark&hide_langs_below=1" align="center" style="width: 100%"/>
 </a>
+<br />
 <a href="https://github.com/dwskme">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dwskme&show_icons=true&theme=light&line_height=27" alt="DWSK's github stats" align="right" style="width: 100%"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=dwskme&show_icons=true&theme=light&line_height=27" align="center" style="width: 100%"/>
 </a>
 
 <br />
