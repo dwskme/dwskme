@@ -1,5 +1,7 @@
 # dwsk
 
+![Profile views counter](https://komarev.com/ghpvc/?username=dwskme&&style=flat-square)
+
 ### Hello Everyone, I am dwsk (btw its nickname), a Geek and tech passionate from Nepal.
 
 ### I love to code and also learn a bit of everything there is intresting in and out of Internet
@@ -18,7 +20,9 @@
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-### WebDev
+<br />
+
+### Web Development:
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
@@ -32,7 +36,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 </div>
 
-### Other Languages
+### Languages:
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
@@ -47,7 +51,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
 </div>
 
-### Other Tools
+### Other Technologies:
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
