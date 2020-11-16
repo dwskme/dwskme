@@ -1,11 +1,17 @@
 # dwsk
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=dwskme&&style=flat-square&color=brightgreen)
+ 
+<table><tr><td valign="top" width="70%">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</td><td valign="top" width="50%">
 
 <div align="center">
 
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width:50%" />
 </div>  
+My picture goes here wait plz
+
+</td></tr></table>   
   
 ### I am dwsk (btw its nickname), a Geek and tech passionate from Nepal.
 
