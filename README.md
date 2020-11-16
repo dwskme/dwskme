@@ -1,16 +1,16 @@
 # dwsk
 
-![Profile views counter](https://komarev.com/ghpvc/?username=dwskme&&style=flat-square)
+![Profile views counter](https://komarev.com/ghpvc/?username=dwskme&&style=flat-square&color=brightgreen)
 
 ### Hello Everyone, I am dwsk (btw its nickname), a Geek and tech passionate from Nepal.
 
-### I love to code and also learn a bit of everything there is intresting in and out of Internet
+### I love to code and also learn a bit of everything there is interesting in and out of Internet
 
 - 🔭 I’m currently working on - Portfolio and CMS for Blog
 - 🌱 I’m currently learning - Flutter and React
 - 👯 I’m looking to collaborate with - ❔❔❔❔
 - 💬 Ask me about - How to start Coding?
-- 🥅 2020 Goal - Master all my toolset to advanced level
+- 🥅 2020 Goal - Master all my tool set to advanced level
 - ⚡ Fun fact - Its a secret for now.
   <br />
 
@@ -18,8 +18,9 @@
 
 ### Editors
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
+<div align="center">  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" height="50" />
+</div>
 <br />
 
 ### Web Development:
@@ -78,15 +79,26 @@
 
 ## Github Stats
 
+<div align="center">  
 <a href="https://github.com/dwskme">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwskme&theme=dark&hide_langs_below=1" align="center" style="width: 100%"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwskme&theme=onedark&langs_count=8" align="center" style="width: 100%"/>
 </a>
-<br />
-<a href="https://github.com/dwskme">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dwskme&show_icons=true&theme=light&line_height=27" align="center" style="width: 100%"/>
-</a>
+</div>
 
+<div align="center">  
 <br />
+<a href="https://github.com/dwskme">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=dwskme&show_icons=true&theme=onedark&line_height=27" align="center" style="width: 100%"/>
+</a>
+</div>
+<br />
+
+### OS:
+
+<div>
+I mainly use Windows with WSL2 but sometimes I also use Ubuntu(for Linux).
+I have a git repo with quick installation setup file and dotfiles collection for the Linux config if you are interested.
+</div>
 
 ### Connect with me:
 
@@ -98,3 +110,5 @@
 <br />
 
 <div align="center">
+
+# Still Under Construction (Incomplete)
