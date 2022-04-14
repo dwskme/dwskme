@@ -1,6 +1,7 @@
 # dwsk
 
-![Profile views counter](https://komarev.com/ghpvc/?username=dwskme&&style=flat-square&color=brightgreen)
+![Profile views counter][![](https://visitcount.itsvg.in/api?id=dwskme&icon=2&color=6)](https://visitcount.itsvg.in)
+
  ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dark_wizard_sk) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/dwsky69) 
 
@@ -48,5 +49,4 @@ My picture goes here wait plz
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dwskme&icon=2&color=6)](https://visitcount.itsvg.in)
 
