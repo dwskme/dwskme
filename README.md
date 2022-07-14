@@ -12,8 +12,12 @@ style="border: 1px solid #CCC; border-collapse: collapse;">
 
 <br/>  
 
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<a href="https://app.daily.dev/dwsk"><img src="https://api.daily.dev/devcards/284a9eab74fc418ab176a5a99cafb124.png?r=1am" width="400" alt="Samir KC's Dev Card"/></a>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samirkc) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16704287) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/dwsk69) 
