@@ -12,11 +12,22 @@ style="border: 1px solid #CCC; border-collapse: collapse;">
 
 <br/>  
 
-
+<table>
+ <tr>
+  <td>
+  
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+  </td>
+  
+  
+  <td>
+  <a href="https://app.daily.dev/dwsk"><img src="https://api.daily.dev/devcards/284a9eab74fc418ab176a5a99cafb124.png?r=1am" width="400" alt="Samir KC's Dev Card"/></a>
+  </td>
+ </tr>
+</table>
 
-<a href="https://app.daily.dev/dwsk"><img src="https://api.daily.dev/devcards/284a9eab74fc418ab176a5a99cafb124.png?r=1am" width="400" alt="Samir KC's Dev Card"/></a>
+
 
 
 ## 🌐 Socials:
