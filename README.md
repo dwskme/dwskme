@@ -49,12 +49,14 @@
 
 <h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=https://www.github.com/dwskme&count_private=true&show_icons=true&theme=default" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://www.github.com/dwskme&theme=default" />
-</a>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dwskme&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dwskme&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dwskme&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dwskme&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
 
 <h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
 
