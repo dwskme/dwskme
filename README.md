@@ -7,18 +7,19 @@
 <img src="https://media.tenor.com/Ps6hIGTY_84AAAAi/ok.gif" align="right" height="250" width="250" />
 </div>  
   
+** My Website Under Construction **
 
 - 🌱 I’m currently learning **Go, Rust**
 
-- 👨‍💻 All of my projects are available at [samirkc.vercel.com](samirkc.vercel.com)
+- 👨‍💻 All of my projects are available at [samirkc.vercel.com](https://samirkc.vercel.app)
 
-- 📝 I regularly write articles on [samirkc.vercel.com/blog](samirkc.vercel.com/blog)
+- 📝 I regularly write articles on [samirkc.vercel.com/blog](https://samirkc.vercel.app/blog)
 
 - 💬 Ask me about **JS/TS, Linux Ricing**
 
 - 📫 How to reach me **officialsamirkc@gmail.com**
 
-- 📄 Know about my experiences [samirkc.vercel.com/resume](samirkc.vercel.com/resume)
+- 📄 Know about my experiences [samirkc.vercel.com/resume](https://samirkc.vercel.app/resume)
 
 - ⚡ Fun fact **I use Arch btw. :)**  
 
