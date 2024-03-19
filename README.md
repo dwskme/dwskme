@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [samirkc.vercel.com/blog](https://samirkc.vercel.app/blog)
 
-- 💬 Ask me about **JS/TS, Linux Ricing**
+- 💬 We can talk about **Software Development | Anime | Football**
 
 - 📫 How to reach me **officialsamirkc@gmail.com**
 
