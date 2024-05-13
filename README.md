@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [samirkc.vercel.com/resume](https://samirkc.vercel.app/resume)
 
-- ⚡ Fun fact **I use Arch btw. :)**  
+- ⚡ Fun fact **I oftenly use Arch btw. :)**  
 
 <br/>  
 
