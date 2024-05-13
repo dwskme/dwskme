@@ -9,7 +9,7 @@
   
 ** My Website Under Construction **
 
-- 🌱 I’m currently learning **Go, Rust**
+- 🌱 I’m currently learning Go, .NET, Concurrency, Microservices, Containerization and System Design.
 
 - 👨‍💻 All of my projects are available at [samirkc.vercel.com](https://samirkc.vercel.app)
 
