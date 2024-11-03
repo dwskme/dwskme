@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Samir KC</h1>
-<h3 align="center">Software Engineer | Blogger</h3>
+<h1 align="center">Hi 👋, I'm Samir K C</h1>
+<h3 align="center">Software Engineer | Msc. IT Student | Eclectic</h3>
 
 <p align="left"> <a href="https://twitter.com/dwsk69" target="blank"><img src="https://img.shields.io/twitter/follow/dwsk69?logo=twitter&style=for-the-badge" alt="dwsk69" /></a> </p>
 
@@ -7,21 +7,20 @@
 <img src="https://media.tenor.com/Ps6hIGTY_84AAAAi/ok.gif" align="right" height="250" width="250" />
 </div>  
   
-** My Website Under Construction **
 
-- 🌱 I’m currently learning Go, .NET, Concurrency, Microservices, Containerization and System Design.
+- 🌱 I’m currently learning: Microservices, Concurrency, Containerization and System Designs.
 
-- 👨‍💻 All of my projects are available at [samirkc.vercel.com](https://samirkc.vercel.app)
+- 👨‍💻 All of my projects are available at [samirkc.com/projects](https://samirkc.com/projects)
 
-- 📝 I regularly write articles on [samirkc.vercel.com/blog](https://samirkc.vercel.app/blog)
+- 📝 I regularly write articles on [samirkc.com/blog](https://samirkc.com/blog)
 
-- 💬 We can talk about **Software Development | Anime | Football**
+- 💬 We can talk about **Software Development | Anime | Football | Life & Philosophy **
 
 - 📫 How to reach me **officialsamirkc@gmail.com**
 
-- 📄 Know about my experiences [samirkc.vercel.com/resume](https://samirkc.vercel.app/resume)
+- 📄 Know about my experiences [samirkc.com/resume](https://samirkc.com/resume)
 
-- ⚡ Fun fact **I oftenly use Arch btw. :)**  
+- ⚡ Fun fact ** I love CLI. ;)**  
 
 <br/>  
 
