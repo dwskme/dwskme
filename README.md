@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samir K C</h1>
 <h3 align="center">Software Engineer | Msc. IT Student | Eclectic</h3>
 
-<p align="left"> <a href="https://twitter.com/dwsk69" target="blank"><img src="https://img.shields.io/twitter/follow/dwsk69?logo=twitter&style=for-the-badge" alt="dwsk69" /></a> </p>
+<p align="left"> <a href="https://twitter.com/dwskme" target="blank"><img src="https://img.shields.io/twitter/follow/dwsk69?logo=twitter&style=for-the-badge" alt="dwskme" /></a> </p>
 
 <div align="right">
 <img src="https://media.tenor.com/Ps6hIGTY_84AAAAi/ok.gif" align="right" height="250" width="250" />
@@ -14,13 +14,13 @@
 
 - 📝 I regularly write articles on [samirkc.com/blog](https://samirkc.com/blog)
 
-- 💬 We can talk about **Software Development | Anime | Football | Life & Philosophy **
+- 💬 We can talk about ** Software Development | Anime | Football | Life & Philosophy **
 
-- 📫 How to reach me **officialsamirkc@gmail.com**
+- 📫 How to reach me ** officialsamirkc@gmail.com **
 
 - 📄 Know about my experiences [samirkc.com/resume](https://samirkc.com/resume)
 
-- ⚡ Fun fact ** I love CLI. ;)**  
+- ⚡ Fun fact ** I love CLI. ;) **  
 
 <br/>  
 
@@ -31,10 +31,10 @@
 
 ### Languages  
 <div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="75" /></a>  
 <a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="75" /></a>  
-<a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="75" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="75" /></a>  
+
 </div>
 
 </td><td valign="top" width="33%">
@@ -42,7 +42,6 @@
 
 ### Frameworks & DB's  
 <div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="75" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="75" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="75" /></a>  
 <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="75" /></a>  
