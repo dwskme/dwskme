@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [samirkc.com/projects](https://samirkc.com/projects)
 
-- 📝 I regularly write articles on [samirkc.com/blog](https://samirkc.com/blog)
+- 📝 I [try to] write articles on [samirkc.com/blog](https://samirkc.com/blog)
 
 - 💬 We can talk about ** Software Development | Anime | Football | Life & Philosophy **
 
