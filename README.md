@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samir K C</h1>
 <h3 align="center">Software Engineer | Msc. IT Student | Eclectic</h3>
 
-<p align="left"> <a href="https://twitter.com/dwskme" target="blank"><img src="https://img.shields.io/twitter/follow/dwsk69?logo=twitter&style=for-the-badge" alt="dwskme" /></a> </p>
+<p align="left"> <a href="https://twitter.com/dwskme" target="blank"><img src="https://img.shields.io/twitter/follow/dwskme?logo=twitter&style=for-the-badge" alt="dwskme" /></a> </p>
 
 <div align="right">
 <img src="https://media.tenor.com/Ps6hIGTY_84AAAAi/ok.gif" align="right" height="250" width="250" />
