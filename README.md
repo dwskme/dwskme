@@ -12,8 +12,6 @@
 
 - 👨‍💻 All of my projects are available at [samirkc.com/projects](https://samirkc.com/projects)
 
-- 📝 I [try to] write articles on [samirkc.com/blog](https://samirkc.com/blog)
-
 - 💬 We can talk about ** Software Development | AI & ML | Anime | Football | Life & Philosophy **
 
 - 📫 How to reach me ** officialsamirkc@gmail.com **
